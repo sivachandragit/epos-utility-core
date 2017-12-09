@@ -1,0 +1,4 @@
+#Ignore everything but pom.xml
+*
+!.gitignore
+!pom.xml
